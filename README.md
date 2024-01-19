@@ -5,12 +5,15 @@ This project demonstrates real-time hand tracking using OpenCV and MediaPipe. By
 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
 
 Real-time Tracking: Utilize OpenCV and MediaPipe for efficient hand landmark detection.
+
 Easy Integration: Simple to integrate into existing projects for interactive solutions.
 
 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬:
 
 Python 3.x
+
 OpenCV
+
 MediaPipe
 
 𝐇𝐨𝐰 𝐭𝐨 𝐔𝐬𝐞:
