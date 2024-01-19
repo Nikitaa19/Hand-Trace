@@ -19,6 +19,9 @@ MediaPipe
 𝐇𝐨𝐰 𝐭𝐨 𝐔𝐬𝐞:
 
 Install the required dependencies: pip install opencv-python mediapipe
+
 Run the main script: python hand_tracking.py
+
 Explore the possibilities of hand tracking in your applications!
+
 Feel free to contribute, report issues, or suggest enhancements. Happy coding! 🤖👐
