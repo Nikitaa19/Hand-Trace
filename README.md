@@ -1,4 +1,4 @@
-# 𝐇𝐚𝐧𝐝 𝐓𝐫𝐚𝐜𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐎𝐩𝐞𝐧𝐂𝐕 𝐚𝐧𝐝 𝐌𝐞𝐝𝐢𝐚𝐏𝐢𝐩𝐞
+# 𝐇𝐚𝐧𝐝 𝐓𝐫𝐚𝐜𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐎𝐩𝐞𝐧𝐂𝐕 & 𝐌𝐞𝐝𝐢𝐚𝐏𝐢𝐩𝐞
 
 This project demonstrates real-time hand tracking using OpenCV and MediaPipe. By leveraging computer vision techniques, it accurately detects and tracks hand landmarks.
 
